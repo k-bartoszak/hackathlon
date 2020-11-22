@@ -7,4 +7,4 @@ https://diveinlife.pl/starkard/
 Strona lokalnego biznesu:
 https://diveinlife.pl/lokalny-binzes/
 
-(Mamy zespół bez programisty dlatego strony były tworzone za pomocą WP)
+(Mamy zespół bez programisty, dlatego strony były tworzone za pomocą Wordpress oraz Elementora)
